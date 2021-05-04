@@ -1,0 +1,46 @@
+-------------------------------------------------------------------------------
+>Log Session: Tuesday, April 20, 2021 3:55:26 PM CEST
+>System Info: 
+  Product Version         = Apache NetBeans Platform Dev (Build 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54)
+  Operating System        = Windows 10 version 10.0 running on amd64
+  Java; VM; Vendor        = 1.8.0_231; Java HotSpot(TM) 64-Bit Server VM 25.231-b11; Oracle Corporation
+  Runtime                 = Java(TM) SE Runtime Environment 1.8.0_231-b11
+  Java Home               = C:\Program Files\Java\jdk1.8.0_231\jre
+  System Locale; Encoding = en_GB (asteroidsnetbeansmodules); Cp1252
+  Home Directory          = C:\Users\A
+  Current Directory       = C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules
+  User Directory          = C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\userdir
+  Cache Directory         = C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\userdir\var\cache
+  Installation            = C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\asteroidsnetbeansmodules
+                            C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\bin
+                            C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\etc
+                            C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\platform
+                            C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\platform
+  Boot & Ext. Classpath   = C:\Program Files\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_231\jre\classes;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\zipfs.jar
+  Application Classpath   = C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\platform\lib\boot.jar;C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\platform\lib\org-openide-modules.jar;C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\platform\lib\org-openide-util-lookup.jar;C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\platform\lib\org-openide-util-ui.jar;C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\platform\lib\org-openide-util.jar;C:\Program Files\Java\jdk1.8.0_231\lib\dt.jar;C:\Program Files\Java\jdk1.8.0_231\lib\tools.jar
+  Startup Classpath       = C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\platform\core\asm-all-5.0.1.jar;C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\platform\core\core-base.jar;C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\platform\core\core.jar;C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\platform\core\org-netbeans-libs-asm.jar;C:\Users\A\Desktop\Lab6\AsteroidsNetbeansModules\application\target\asteroidsnetbeansmodules\platform\core\org-openide-filesystems.jar
+-------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.39 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.openide.util [9.13 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.openide.util.ui [9.14 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.openide.modules [7.54 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.openide.filesystems [9.16 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.libs.asm [5.9 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.bootstrap/1 [2.84 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.core.startup.base [1.68.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.core.startup/1 [1.68.0.1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.libs.osgi [1.28 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.core.netigso [1.37 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.netbinox [1.47 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.api.annotations.common/1 [1.33 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	dk.sdu.mmmi.cbse.Common [1.0 1.0-20210420 202104201353]
+	dk.sdu.mmmi.cbse.CommonBullet [1.0 1.0-20210420 202104201353]
+	dk.sdu.mmmi.cbse.Player [1.0 1.0-20210420 202104201353]
+	dk.sdu.mmmi.cbse.CommonEnemy [1.0 1.0-20210420 202104201353]
+	dk.sdu.mmmi.cbse.Enemy [1.0 1.0-20210420 202104201353]
+	dk.sdu.mmmi.cbse.Core [1.0 1.0-20210420 202104201353]
+	dk.sdu.mmmi.cbse.CommonAsteroids [1.0 1.0-20210420 202104201353]
+	dk.sdu.mmmi.cbse.Collision [1.0 1.0-20210420 202104201353]
+	dk.sdu.mmmi.cbse.Bullet [1.0 1.0-20210420 202104201353]
+	dk.sdu.mmmi.cbse.Asteroid [1.0 1.0-20210420 202104201353]

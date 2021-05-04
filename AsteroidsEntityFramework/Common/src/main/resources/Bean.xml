@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="asteroid" class="dk.sdu.mmmi.cbse.common.data.Entity" />
+    <bean id="asteroid" class="dk.sdu.mmmi.cbse.common.data.GameData" />
+    <bean id="asteroid" class="dk.sdu.mmmi.cbse.common.data.GameKeys" />
+    <bean id="asteroid" class="dk.sdu.mmmi.cbse.common.data.World" />
+    <bean id="asteroid" class="dk.sdu.mmmi.cbse.common.data.entityparts.LifePart(int life, float expiration)" />
+    <bean id="asteroid" class="dk.sdu.mmmi.cbse.common.data.entityparts.MovingPart(float deceleration, float acceleration, float maxSpeed, float rotationSpeed)" />
+    <bean id="asteroid" class="dk.sdu.mmmi.cbse.common.data.entityparts.PositionPart(float x, float y, float radians)" />
+    <bean id="asteroid" class="dk.sdu.mmmi.cbse.common.data.entityparts.EntityPart" abstract="true"/>
+    <bean id="asteroid" class="dk.sdu.mmmi.cbse.common.events.Event" />
+    <bean id="asteroid" class="dk.sdu.mmmi.cbse.common.services.IEntityProcessingService" abstract="true"/>
+    <bean id="asteroid" class="dk.sdu.mmmi.cbse.common.services.IGamePluginService" abstract="true"/>
+    <bean id="asteroid" class="dk.sdu.mmmi.cbse.common.services.IPostEntityProcessingService" abstract="true"/>
+    <bean id="asteroid" class="dk.sdu.mmmi.cbse.common.util.SPILocator" />
+
+</beans>
