@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.eagle.main.AsteroidLab.branding">
+    <module_version install_time="1617302033714" last="true" origin="installer" specification_version="1.0.0">
+        <file crc="3758898619" name="config/Modules/com-eagle-main-AsteroidLab-branding.xml"/>
+        <file crc="2227231749" name="core/locale/core_asteroidlab.jar"/>
+        <file crc="656513232" name="modules/com-eagle-main-AsteroidLab-branding.jar"/>
+        <file crc="4166376194" name="modules/locale/org-netbeans-core-windows_asteroidlab.jar"/>
+        <file crc="4269059321" name="modules/locale/org-netbeans-core_asteroidlab.jar"/>
+    </module_version>
+</module>

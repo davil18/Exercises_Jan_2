@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AsteroidLab/application/AsteroidLab-app.iml" filepath="$PROJECT_DIR$/AsteroidLab/application/AsteroidLab-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidLab/branding/AsteroidLab-branding.iml" filepath="$PROJECT_DIR$/AsteroidLab/branding/AsteroidLab-branding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidLab/AsteroidLab-parent.iml" filepath="$PROJECT_DIR$/AsteroidLab/AsteroidLab-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/application/AsteroidsNetbeansModules-app.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/application/AsteroidsNetbeansModules-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/branding/AsteroidsNetbeansModules-branding.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/branding/AsteroidsNetbeansModules-branding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/AsteroidsNetbeansModules-parent.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/AsteroidsNetbeansModules-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/Common/Common.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/Core/Core.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/Core/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab2.iml" filepath="$PROJECT_DIR$/.idea/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/Player/Player.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/Player/Player.iml" />
+    </modules>
+  </component>
+</project>
